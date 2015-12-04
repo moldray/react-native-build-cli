@@ -1,0 +1,30 @@
+{
+  "name": "react-native-build-cli",
+  "version": "0.0.1",
+  "description": "a cli tool for react-native build",
+  "main": "index.js",
+  "bin": {
+    "rnb": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonpro/react-native-build-cli.git"
+  },
+  "keywords": [
+    "react-native",
+    "build"
+  ],
+  "author": "adonpro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonpro/react-native-build-cli/issues"
+  },
+  "homepage": "https://github.com/adonpro/react-native-build-cli#readme",
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "shelljs": "^0.5.3"
+  }
+}
